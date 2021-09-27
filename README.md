@@ -1,7 +1,7 @@
 # travel_project
 
 ##About Project:
-# I created this app as a personal blog where I show case my travel experience and picture. This was a fun project where I tried and experimented with different JS libraries for animation and inetractions.
+ I created this app as a personal blog where I show case my travel experience and picture. This was a fun project where I tried and experimented with different JS libraries for animation and interactions.
 
 ## Motivation:
 The idea behind this app is to learn different JS libraries and breakpoints for responsiveness using media queries.
